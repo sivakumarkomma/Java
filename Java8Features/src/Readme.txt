@@ -5,3 +5,4 @@ Java8Features
 4.Base64 class included
 5.JDBC 4.0 driver is stopped 
 6.Stopped support to windows 7
+7.Added optional

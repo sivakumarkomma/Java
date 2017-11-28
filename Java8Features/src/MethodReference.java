@@ -13,7 +13,5 @@ public class MethodReference {
 	    names.add("Naresh");
 	    names.add("Kalpesh");
 	    names.forEach(System.out::println);
-	    
 	}
-
 }

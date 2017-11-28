@@ -25,10 +25,6 @@ public class Base64Example {
 		System.out.println("decodedString in bytes :"+decodedString);
 		
 		System.out.println("decodedString in string format  :"+new String(decodedString));
-		
-		
-		
-	}
-	
 
+	}
 }
