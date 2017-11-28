@@ -1,6 +1,8 @@
+package optional;
+
 import java.util.Optional;
 
-public class OptionalExample {
+public class OptionalExampleAll {
     public static void main(String[] args) {
         String[] str = new String[10];
         str[5] = "JAVA OPTIONAL CLASS EXAMPLE";  // Setting value for 5th index  
